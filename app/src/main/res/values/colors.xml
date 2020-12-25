@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+
+    //RSRP colors
+    <color name="rsrp_less_minus_110">@color/black</color>
+    <color name="rsrp_less_minus_100">#E51304</color>
+    <color name="rsrp_less_minus_90">#FAFD0C</color>
+    <color name="rsrp_less_minus_80">#02FA0E</color>
+    <color name="rsrp_less_minus_70">#0B440D</color>
+    <color name="rsrp_less_minus_60">#0EFFF8</color>
+    <color name="rsrp_more_minus_60">#0007FF</color>
+
+    //RSRQ colors
+    <color name="rsrq_less_minus_19_5">@color/black</color>
+    <color name="rsrq_less_minus_14">@color/red</color>
+    <color name="rsrq_less_minus_9">#ffee00</color>
+    <color name="rsrq_less_minus_3">#80ff00</color>
+    <color name="rsrq_more_minus_3">#3f7806</color>
+
+    //SINR colors
+    <color name="sinr_less_0">@color/black</color>
+    <color name="sinr_less_5">#F90500</color>
+    <color name="sinr_less_10">#FD7632</color>
+    <color name="sinr_less_15">#FBFD00</color>
+    <color name="sinr_less_20">#00FF06</color>
+    <color name="sinr_less_25">#027500</color>
+    <color name="sinr_less_30">#0EFFF8</color>
+    <color name="sinr_more_30">#0000F0</color>
+
+</resources>

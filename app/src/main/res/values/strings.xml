@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Digis Task</string>
+    <string name="base_url">"http://51.195.89.92:6000"</string>
+
+    <string name="label_rsrp">rsrp</string>
+    <string name="label_rsrq">rsrq</string>
+    <string name="label_sinr">sinr</string>
+
+    <string name="label_RSRP">RSRP</string>
+    <string name="label_RSRQ">RSRQ</string>
+    <string name="label_SINR">SINR</string>
+
+</resources>
